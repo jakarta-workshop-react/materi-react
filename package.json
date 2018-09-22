@@ -1,0 +1,19 @@
+{
+  "name": "workshopreact",
+  "version": "1.0.0",
+  "description": "Workshop basic react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakarta-workshop-react/materi-react.git"
+  },
+  "author": "DevCJKT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakarta-workshop-react/materi-react/issues"
+  },
+  "homepage": "https://github.com/jakarta-workshop-react/materi-react#readme"
+}
